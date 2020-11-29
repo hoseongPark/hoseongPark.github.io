@@ -1,4 +1,4 @@
-I"ú<div id="archives" class="pl-xl-2">
+I"ç<div id="archives" class="pl-xl-2">
 
   
   
@@ -7,6 +7,20 @@
     
   <span class="lead">2020</span>
   <ul class="list-unstyled">
+  
+    <li>
+      <div>
+        
+        
+        <span class="date day">29</span>
+        <span class="date month small text-muted">Nov</span>
+        <a href="/posts/Strategy-Pattern/">Strategy Pattern</a>
+      </div>
+    </li>
+  
+
+  
+  
   
     <li>
       <div>
