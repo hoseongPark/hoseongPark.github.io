@@ -20,7 +20,7 @@ tags: [design pattern]
 
 > ***Pattern UML***
 
-![singleton uml](/assets/img/design-pattern/singleton.png){: width="650" class="normal"}
+![singleton uml](https://drive.google.com/uc?export=view&id=1oH2fVpSTppe9UeZ113tewb7l6IbRkGpI){: width="650" class="normal"}
 
 <br>
 
@@ -113,4 +113,4 @@ public class Main {
 
 > ***Result***
 
-![result](/assets/img/design-pattern/singletonResult.png)
+![result](https://drive.google.com/uc?export=view&id=1aOeSXkuZogcQaJsQiX1DmYTabe1LaEYR)
