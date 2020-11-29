@@ -19,19 +19,19 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://hoseongpark.github.io'
 
-author: hoseongPark                  # change to your full name
+author: hoseongPark                 # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: hoseongPark             # change to your github username
+  username: hoseongPark              # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
   name: hoseongPark                  # it will shows as the copyright owner in Footer
-  email: ghtjd5689@gmail.com             # change to your email address
+  email: ghtjd5689@gmail.com              # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
